@@ -1,0 +1,18 @@
+console.log("welcome to my Javascript session");
+x=10;
+y=20;
+const pi=3.14;
+//pi=5.47;
+//console.log(pi);
+let d="ramu";
+let $a=50;
+console.log($a);
+console.log(d);
+console.log(x);
+console.log(y);
+x=9;
+y=8;
+console.log(x);
+console.log(y);
+sum=x+y;
+console.log("Sum = "+sum);
